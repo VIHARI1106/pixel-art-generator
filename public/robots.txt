@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vihari1106.github.io/pixel-art-generator/sitemap.xml
